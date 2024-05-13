@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>383674267703-j9bm3vb83it25gl6v3277hqsdkth76kc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.383674267703-j9bm3vb83it25gl6v3277hqsdkth76kc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>383674267703-55um6anve6ktu8phab62av1kv4ohp49d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLSGpWvGD1lt0zte3UkXTmIco5Azvzqyo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>383674267703</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterVideoCallApp</string>
+	<key>PROJECT_ID</key>
+	<string>fluttervideocall-c02a4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fluttervideocall-c02a4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:383674267703:ios:bf199631c117bf5fd2a7b2</string>
+	<key>DATABASE_URL</key>
+	<string>https://fluttervideocall-c02a4-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
